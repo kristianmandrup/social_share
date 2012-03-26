@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "social_share"
   gem.homepage = "http://github.com/kristianmandrup/social_share"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{View helpers for Facebook and Twitter share buttons}
+  gem.description = %Q{View helpers that make it easy to insert Facebook and Twitter share buttons in a Rails app}
   gem.email = "kmandrup@gmail.com"
   gem.authors = ["Kristian Mandrup"]
   # dependencies defined in Gemfile
